@@ -34,7 +34,7 @@ This repository contains a complete Hall Management System implemented using **O
 
 ## ER Diagram
 
-![ER Diagram of Hall Management System](er_diagram.png)
+![ER Diagram of Hall Management System](https://github.com/hanif1002/Departmental-Project/blob/main/Database%20Management%20System/er_diagram.png)
 
 *Figure: ER Diagram of University Hall Management System*
 
